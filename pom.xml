@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.naoghuman</groupId>
     <artifactId>Lib-Java-Light</artifactId>
-    <version>0.1.0</version> <!-- -SNAPSHOT -->
+    <version>0.1.1-SNAPSHOT</version> <!-- -SNAPSHOT -->
     <packaging>jar</packaging>
     <name>Lib-Java-Light</name>
     <description>Lib-Java-Swing is a library which contains some light versions from awt and swing classes which I used frequently during 2006 and 2010 in my java applications and games.</description>
