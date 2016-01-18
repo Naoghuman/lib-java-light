@@ -13,6 +13,8 @@ games.
 
 Current `version` is `0.1.0` (01.2016).
 
+![lib-java-light.png][lib-java-light]
+
 
 
 Content
@@ -74,3 +76,8 @@ You can reach me under <peter.rogge@yahoo.de>.
 [JRE 8]:http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 [Overview from all releases in Lib-Java-Light]:https://github.com/Naoghuman/lib-java-light/releases
 [Release v0.1.0 (01.2016)]:https://github.com/Naoghuman/lib-java-light/releases/tag/v0.1.0
+
+
+[//]: # (Images)
+
+[lib-java-light]:https://cloud.githubusercontent.com/assets/8161815/12398798/3680df9e-be16-11e5-8a22-d7ec565620db.png
